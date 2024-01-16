@@ -1,0 +1,6 @@
+apiVersion: v2
+name: homelab-cert-manager-webhook
+description: A Cert Manager Webhook for my Homelab
+type: application
+version: 0.1.0
+appVersion: 1.0.0

@@ -1,0 +1,6 @@
+apiVersion: v2
+name: homelab-letsencrypt-issuers
+description: Deploy letsencrypt issuers for homelab clusters
+type: application
+version: 0.1.0
+appVersion: 1.0.0
